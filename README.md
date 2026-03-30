@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm Prince Samwyn
 
-<!--
-**princesamwyn/princesamwyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Aspiring Cybersecurity Professional | Junior Penetration Tester  
+💻 3 Years Experience in Software Testing  
+🚀 Practicing on Hack The Box & PortSwigger  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ About Me
+
+I am a Software Tester transitioning into Cybersecurity with hands-on experience in penetration testing labs and vulnerability assessment.
+
+- 🎯 Goal: Become a Skilled Penetration Tester  
+- 🔍 Focus: Web Application Security & Privilege Escalation  
+- ⚡ Platforms: TryHackMe, Hack The Box, PortSwigger  
+
+---
+
+## 🧠 Skills
+
+- Vulnerability Assessment & Enumeration  
+- Web Application Security (SQL Injection, XSS)  
+- Network Scanning & Reconnaissance  
+- Privilege Escalation (Linux & Windows)  
+
+---
+
+## 🧰 Tools
+
+- Nmap  
+- Burp Suite  
+- Gobuster  
+- Hydra  
+- Metasploit  
+- Wireshark  
+- Kali Linux  
+
+---
+
+## 📂 Cybersecurity Labs
+
+### 🔓 TryHackMe
+- Pre Security ✅  
+- Cyber Security 101 ✅  
+- Jr Penetration Tester ✅  
+
+### 🧪 Hack The Box (Active)
+- Archetype  
+- Oopsie  
+
+### 🌐 PortSwigger Labs
+- SQL Injection  
+- XSS  
+- Authentication  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: link here  
+- Email: s.princesamwyn22@gmail.com  
