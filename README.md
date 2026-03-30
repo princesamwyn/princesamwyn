@@ -63,5 +63,5 @@ I am a Software Tester transitioning into Cybersecurity with hands-on experience
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/prince-samwyn-s-16767123b
+- LinkedIn: https://www.linkedin.com/in/prince-samwyn-cybersecurity
 - Email: s.princesamwyn22@gmail.com  
